@@ -7,3 +7,5 @@
 # criando commits
 
 ## Repositórios remotos
+
+## git pull
